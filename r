@@ -11,14 +11,14 @@ SLIDE 1 — LE PROBLÈME · "Pourquoi agir maintenant ?"
 
 15 minutes.
 
-C'est le temps qu'il faut aujourd'hui à un client Desjardins pour compléter
+C'est le temps qu'il faut aujourd'hui à un client **--**-- pour compléter
 une soumission d'assurance automobile en ligne. 15 minutes pendant lesquelles
 il est seul, sans accompagnement, face à un formulaire complexe.
 
 Et ce parcours se répète 123 000 fois par année.
 
 Voici le paradoxe : le canal web génère les primes les plus élevées pour
-Desjardins. C'est le canal le plus rentable. Mais c'est aussi celui qui
+**--**--. C'est le canal le plus rentable. Mais c'est aussi celui qui
 convertit le moins bien. Pourquoi ? Parce que le client abandonne.
 
 Pendant ce temps, le centre d'appels convertit mieux — grâce à
@@ -60,7 +60,7 @@ Zéro ambiguïté.
 Enfin, il confirme sa police en un clic et télécharge sa confirmation PDF.
 La police est active immédiatement.
 
-Pourquoi c'est important pour Desjardins ?
+Pourquoi c'est important pour **--**-- ?
 
 Parce que ce même parcours peut s'appliquer à d'autres produits et d'autres
 contextes. L'architecture est générique. Si vous changez les règles,
@@ -79,22 +79,22 @@ Derrière ce parcours fluide, il y a une architecture en 5 couches qui garantit 
 En haut, trois espaces distincts selon qui interagit — le client, l'employé, l'équipe interne. Chacun voit exactement ce dont il a besoin, rien de plus.
 Au centre, un coordinateur unique reçoit chaque demande et orchestre le travail dans un ordre fixe et invariable. Il ne décide rien lui-même — il s'assure que les bonnes étapes se font dans le bon ordre.
 Sous lui, trois agents spécialisés travaillent en séquence — le chatbot pour les questions, la tarification pour le prix, la souscription pour les explications.
-Ces agents s'appuient sur les règles officielles Desjardins et sur les données de vos clients — documents de tarification, profils, historiques de conduite.
+Ces agents s'appuient sur les règles officielles **--**-- et sur les données de vos clients — documents de tarification, profils, historiques de conduite.
 Et en bas, les résultats concrets : une décision, une prime, une explication, un PDF.
 ================================================================================
 "Ce qui différencie notre solution d'un simple formulaire intelligent,
 c'est l'utilisation de trois agents IA spécialisés.
 
 Le premier est notre Agent Chatbot. Il répond aux questions des clients
-24 heures sur 24, basé exclusivement sur les règles officielles Desjardins.
+24 heures sur 24, basé exclusivement sur les règles officielles **--**--.
 Pas de réponses approximatives. Pas d'attente. Le client comprend ce qu'il
 achète avant de soumettre.
 
 Le deuxième est notre Agent Tarification. En 15 secondes, il détermine
 le groupe tarifaire du véhicule et calcule la prime avec tous les rabais
-applicables — pneus d'hiver, antivol, fidélité Desjardins. Et voici ce
+applicables — pneus d'hiver, antivol, fidélité **--**--. Et voici ce
 qui nous distingue réellement : il n'y a aucune formule inventée dans
-notre système. Tout vient des documents officiels Desjardins. La tarification
+notre système. Tout vient des documents officiels **--**--. La tarification
 est cohérente, transparente et défendable.
 
 Le troisième est notre Agent Souscription. Il ne génère pas le même message
@@ -131,7 +131,7 @@ Toutes les décisions sont traçables. Chaque dossier est sauvegardé avec
 son historique complet. Si une décision est contestée, on peut la retracer
 et la justifier en quelques secondes.
 
-Les agents répondent uniquement sur les documents officiels Desjardins.
+Les agents répondent uniquement sur les documents officiels **--**--.
 Jamais d'improvisation. Jamais de mémoire générale.
 
 L'humain est toujours dans la boucle pour les cas complexes. Aucun dossier
@@ -168,7 +168,7 @@ Mais au-delà de ces chiffres, voici la vraie question à se poser.
 
 Si ce système peut transformer 123 000 parcours d'assurance automobile
 par année — qu'est-ce qu'il peut faire pour l'ensemble des parcours
-financiers de Desjardins ? Les prêts. L'épargne. L'assurance habitation.
+financiers de **--**-- ? Les prêts. L'épargne. L'assurance habitation.
 Les réclamations. L'accompagnement conseil.
 
 La même architecture. Les mêmes agents. Des documents différents.
